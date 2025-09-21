@@ -1,5 +1,7 @@
 // Leandro Kamada Pesce Dimov - RM560381
 // Ian Junji Maluvayshi Matsushita - RM560588
+// Pedro Arão Baquini - RM559580
+
 import java.util.Scanner;
 
 public class ex4 {

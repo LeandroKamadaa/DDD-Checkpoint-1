@@ -1,5 +1,6 @@
 // Leandro Kamada Pesce Dimov - RM560381
 // Ian Junji Maluvayshi Matsushita - RM560588
+// Pedro Arão Baquini - RM559580
 
 //Entrada: 529.982.247-25
 //Saída: Valid
@@ -12,8 +13,8 @@ import java.util.Scanner;
 public class ex9 {
     public static void main(String[] args) {
         System.out.println("Enter a CPF number:");
-        Scanner sc = new Scanner(System.in);
-        String input = sc.nextLine();
+        Scanner scanner = new Scanner(System.in);
+        String input = scanner.nextLine();
         String cpf = "";
         for (int i = 0; i < input.length(); i++) {
             char c = input.charAt(i);
