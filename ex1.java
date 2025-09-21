@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-class ex1 {
+public class ex1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the first number: ");
